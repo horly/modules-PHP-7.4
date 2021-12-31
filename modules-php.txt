@@ -1,0 +1,4 @@
+sudo apt-get install php-igbinary php-imagick php-redis php-cli php-common php-curl php-fpm php-gd php-json php-mbstring php-mysql php-opcache php-readline php-tidy php-xml php-xmlrpc php-zip
+
+
+
