@@ -2,7 +2,7 @@
 
 #or
 
-- sudo apt install php-{curl,mbstring,zip,xml,soap,cli,igbinary,imagick,redis,common,fpm,gd,json,mbstring,mysql,opcache,readline,tidy,xmlrpc}
+- sudo apt install php-{curl,mbstring,zip,xml,soap,cli,igbinary,imagick,redis,common,fpm,gd,json,mbstring,mysql,opcache,readline,tidy,xmlrpc,mysqli}
 
 
 
